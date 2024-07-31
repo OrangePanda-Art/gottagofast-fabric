@@ -23,8 +23,8 @@
     "gottagofast.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.12",
-    "minecraft": "1.19.2",
-    "owo": ">=0.9.3+1.19"
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21",
+    "owo": "0.12.11+1.21"
   }
 }
